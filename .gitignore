@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.key
+.DS_Store
+data/raw/*
+!data/raw/.gitkeep
