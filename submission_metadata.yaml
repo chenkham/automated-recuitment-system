@@ -1,0 +1,68 @@
+# Redrob Hackathon — Submission Metadata
+# The fields here match what you submit via the portal at upload time.
+
+# ============================================================================
+# Team identity
+# ============================================================================
+team_name: "your-team-name"  # Replace with your registered team name
+
+primary_contact:
+  name: "Your Name"
+  email: "your-email@example.com"
+  phone: "+91-XXXXXXXXXX"
+
+team_members:
+  - name: "Your Name"
+    email: "your-email@example.com"
+    role: "ML Engineer"
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "https://github.com/YOUR_USERNAME/YOUR_REPO" # Replace with your GitHub URL
+sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker" # Replace with your sandbox space URL
+
+reproduce_command: "python rank.py --candidates ./data/raw/[PUB] India_runs_data_and_ai_challenge/India_runs_data_and_ai_challenge/candidates.jsonl --out ./output/ranked_candidates.csv"
+
+# ============================================================================
+# Compute environment
+# ============================================================================
+compute:
+  platform: "Local CPU machine"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.12.10"
+  os: "Windows 11"
+  uses_gpu_for_inference: false                 # Must be false
+  has_network_during_ranking: false             # Must be false
+  pre_computation_required: false               # false since our pipeline is fast & self-contained
+  pre_computation_time_minutes: 0
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+ai_tools_used:
+  - "Gemini"
+  - "Cursor"
+
+ai_usage_summary: |
+  Used Gemini to structure the codebase modules, implement clean filtering, and build modular, well-commented scoring logic. Checked submission quality and honeypot rates.
+
+# ============================================================================
+# Approach summary
+# ============================================================================
+methodology_summary: |
+  A hybrid rule-based and concept-similarity ranking pipeline designed for the Founding Senior AI Engineer role. 
+  Excludes design/operations traps and ~80 honeypots via strict proficiencies, date checks, and services-company audits.
+  Matches remaining profiles using direct keyword and expanded-concept scoring. Adjusts the rank using behavioral signals
+  (recruiter response rate, open-to-work flag, notice period, and GitHub activity). Runs in ~1 minute on CPU.
+
+# ============================================================================
+# Declarations
+# ============================================================================
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true

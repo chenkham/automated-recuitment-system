@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0000031,1,1.0,"Superb fit with 6.0 years of experience as a Recommendation Systems Engineer at Swiggy. Demonstrated production expertise in FAISS, Pinecone, Embeddings; highly engaged platform activity and strong GitHub score (32)."
+CAND_0006567,2,1.0,Strong Senior candidate (7.9 YoE) with direct experience in NLP at Meta. Exceptional behavioral signals and active GitHub presence match the founding engineer profile.
+CAND_0008295,3,1.0,"Strong Senior candidate (6.5 YoE) with direct experience in PEFT, Weaviate at Razorpay. Exceptional behavioral signals and active GitHub presence match the founding engineer profile."
+CAND_0010685,4,1.0,Strong Senior candidate (6.7 YoE) with direct experience in applied ML at Rephrase.ai. Exceptional behavioral signals and active GitHub presence match the founding engineer profile.
+CAND_0018499,5,1.0,"Superb fit with 7.2 years of experience as a Senior Machine Learning Engineer at Zomato. Demonstrated production expertise in Weaviate, Pinecone, Embeddings; highly engaged platform activity and strong GitHub score (94)."
+CAND_0027691,6,1.0,"Top-tier candidate with 6.5 YoE, currently a NLP Engineer building ML systems at Haptik. Shipped systems involving LoRA, PEFT, Weaviate; highly responsive with 45-day notice."
+CAND_0041610,7,1.0,"Top-tier candidate with 6.7 YoE, currently a Recommendation Systems Engineer building ML systems at Zoho. Shipped systems involving LoRA, Embeddings; highly responsive with 45-day notice."
+CAND_0052328,8,1.0,Superb fit with 6.5 years of experience as a Recommendation Systems Engineer at Amazon. Demonstrated production expertise in LoRA; highly engaged platform activity and strong GitHub score (77).
+CAND_0062247,9,1.0,"Strong Senior candidate (7.3 YoE) with direct experience in Pinecone, Qdrant, PEFT at Google. Exceptional behavioral signals and active GitHub presence match the founding engineer profile."
+CAND_0064326,10,1.0,Strong Senior candidate (7.6 YoE) with direct experience in Weaviate at Sarvam AI. Exceptional behavioral signals and active GitHub presence match the founding engineer profile.
+CAND_0067535,11,1.0,Experienced Junior ML Engineer (6.8 YoE) with key projects in applied ML at Locobuzz. Strong platform response rate and active presence.
+CAND_0067866,12,1.0,"Experienced Senior Software Engineer (ML) (6.4 YoE) with key projects in Embeddings, LoRA, PEFT at Tech Mahindra. Strong platform response rate and active presence."
+CAND_0071974,13,1.0,"Experienced Senior AI Engineer (7.8 YoE) with key projects in LoRA, Weaviate, PEFT at Netflix. Strong platform response rate and active presence."
+CAND_0075249,14,1.0,Demonstrated production experience in Pinecone over 6.2 years at Zomato. Solid candidate with strong availability and relocation alignment.
+CAND_0076163,15,1.0,6.9 YoE NLP Engineer at Ola showing solid hands-on experience in Weaviate. Noida/Pune preferred location fit.
+CAND_0077337,16,1.0,"Experienced Staff Machine Learning Engineer (7.0 YoE) with key projects in Pinecone, Qdrant at Paytm. Strong platform response rate and active presence."
+CAND_0079387,17,1.0,Demonstrated production experience in LoRA over 6.9 years at Microsoft. Solid candidate with strong availability and relocation alignment.
+CAND_0081846,18,1.0,"Demonstrated production experience in Embeddings, Qdrant over 6.7 years at Razorpay. Solid candidate with strong availability and relocation alignment."
+CAND_0082086,19,1.0,"Experienced Senior Software Engineer (ML) (6.0 YoE) with key projects in FAISS, Pinecone at Razorpay. Strong platform response rate and active presence."
+CAND_0088378,20,1.0,Experienced AI Research Engineer (6.0 YoE) with key projects in applied ML at Yellow.ai. Strong platform response rate and active presence.
+CAND_0098846,21,1.0,"7.6 YoE AI Engineer at upGrad showing solid hands-on experience in PEFT, Qdrant. Noida/Pune preferred location fit."
+CAND_0011687,22,0.9968,"7.8 YoE Senior NLP Engineer at Niramai showing solid hands-on experience in FAISS, PEFT, Embeddings. Noida/Pune preferred location fit."
+CAND_0007009,23,0.9961,"7.9 YoE Recommendation Systems Engineer at Wysa showing solid hands-on experience in Weaviate, Embeddings, PEFT. Noida/Pune preferred location fit."
+CAND_0098217,24,0.9953,"Demonstrated production experience in PEFT, FAISS, Pinecone over 6.4 years at Glance. Solid candidate with strong availability and relocation alignment."
+CAND_0050454,25,0.9952,"Experienced AI Engineer (6.8 YoE) with key projects in FAISS, Qdrant, LoRA at Rephrase.ai. Strong platform response rate and active presence."
+CAND_0091909,26,0.9951,"Experienced Machine Learning Engineer (6.9 YoE) with key projects in Pinecone, Qdrant at Rephrase.ai. Strong platform response rate and active presence."
+CAND_0025882,27,0.9937,"Demonstrated production experience in FAISS, LoRA over 5.6 years at Freshworks. Solid candidate with strong availability and relocation alignment."
+CAND_0078002,28,0.993,"6.3 YoE Machine Learning Engineer at Meta showing solid hands-on experience in NLP, Weaviate. Noida/Pune preferred location fit."
+CAND_0026942,29,0.9899,6.0 YoE Junior ML Engineer at Verloop.io showing solid hands-on experience in applied ML. Noida/Pune preferred location fit.
+CAND_0018549,30,0.9893,"Experienced Recommendation Systems Engineer (6.8 YoE) with key projects in Weaviate, Qdrant at Uber. Strong platform response rate and active presence."
+CAND_0059795,31,0.9881,Demonstrated production experience in applied ML over 5.6 years at Locobuzz. Solid candidate with strong availability and relocation alignment.
+CAND_0053605,32,0.9856,Experienced Senior Software Engineer (ML) (6.9 YoE) with key projects in applied ML at Verloop.io. Strong platform response rate and active presence.
+CAND_0036184,33,0.9819,"Experienced Recommendation Systems Engineer (6.0 YoE) with key projects in FAISS, Embeddings, Pinecone at CRED. Strong platform response rate and active presence."
+CAND_0043676,34,0.9794,"Demonstrated production experience in PEFT, LoRA over 6.1 years at Observe.AI. Solid candidate with strong availability and relocation alignment."
+CAND_0052682,35,0.9792,"Demonstrated production experience in FAISS, Embeddings over 6.6 years at Aganitha. Solid candidate with strong availability and relocation alignment."
+CAND_0061257,36,0.9779,Experienced Staff Machine Learning Engineer (8.0 YoE) with key projects in PEFT at LinkedIn. Strong platform response rate and active presence.
+CAND_0007052,37,0.9775,6.5 YoE ML Engineer at Unacademy showing solid hands-on experience in Weaviate. Noida/Pune preferred location fit.
+CAND_0046064,38,0.9763,"8.9 YoE Senior NLP Engineer at Salesforce showing solid hands-on experience in Pinecone, PEFT. Noida/Pune preferred location fit."
+CAND_0033445,39,0.9733,6.8 YoE ML Engineer at Vedantu showing solid hands-on experience in applied ML. Noida/Pune preferred location fit.
+CAND_0083879,40,0.9705,Experienced Machine Learning Engineer (7.1 YoE) with key projects in applied ML at Ola. Strong platform response rate and active presence.
+CAND_0046525,41,0.9701,"6.1 YoE Senior Machine Learning Engineer at Genpact AI showing solid hands-on experience in NLP, Qdrant. Noida/Pune preferred location fit."
+CAND_0015097,42,0.9684,"Experienced Senior Software Engineer (ML) (6.0 YoE) with key projects in PEFT, NLP at Zoho. Strong platform response rate and active presence."
+CAND_0054100,43,0.9676,"Experienced Junior ML Engineer (6.0 YoE) with key projects in Pinecone, Weaviate at Zoho. Strong platform response rate and active presence."
+CAND_0073504,44,0.9661,6.6 YoE Junior ML Engineer at PolicyBazaar showing solid hands-on experience in applied ML. Noida/Pune preferred location fit.
+CAND_0078492,45,0.9653,"5.1 YoE Recommendation Systems Engineer at Verloop.io showing solid hands-on experience in FAISS, Qdrant, PEFT. Noida/Pune preferred location fit."
+CAND_0096104,46,0.9645,"Experienced AI Specialist (7.0 YoE) with key projects in Pinecone, PEFT at Yellow.ai. Strong platform response rate and active presence."
+CAND_0002025,47,0.963,"Experienced Senior AI Engineer (5.9 YoE) with key projects in FAISS, Weaviate, NLP at Apple. Strong platform response rate and active presence."
+CAND_0064256,48,0.9621,Demonstrated production experience in Embeddings over 6.4 years at BYJU'S. Solid candidate with strong availability and relocation alignment.
+CAND_0005509,49,0.9595,Experienced Data Scientist (6.0 YoE) with key projects in Qdrant at Ola. Strong platform response rate and active presence.
+CAND_0033179,50,0.9593,Demonstrated production experience in applied ML over 6.9 years at Wipro. Solid candidate with strong availability and relocation alignment.
+CAND_0037566,51,0.9584,"Matches core retrieval requirements (Pinecone, NLP, LoRA) with 6.9 YoE. Acknowledged concern on 15-day notice, but technical fit at LinkedIn is solid."
+CAND_0076482,52,0.957,"Matches core retrieval requirements (Pinecone, Embeddings) with 6.6 YoE. Acknowledged concern on 60-day notice, but technical fit at Flipkart is solid."
+CAND_0061550,53,0.9568,ML Engineer with 5.3 YoE at Infosys showing exposure to applied ML. Below cutoff for top tier due to 45-day notice or lower platform activity.
+CAND_0043860,54,0.9551,"Matches core retrieval requirements (Qdrant) with 6.1 YoE. Acknowledged concern on 30-day notice, but technical fit at Aganitha is solid."
+CAND_0058688,55,0.9549,"Decent technical fit with 6.7 YoE, currently a AI Engineer at Vedantu. Shows background in Embeddings, though has 15-day notice period."
+CAND_0041669,56,0.9546,"Recommendation Systems Engineer with 8.0 YoE at CRED showing exposure to FAISS, PEFT, Weaviate. Below cutoff for top tier due to 60-day notice or lower platform activity."
+CAND_0007567,57,0.9537,"AI Specialist with 6.1 YoE at Niramai showing exposure to NLP, FAISS. Below cutoff for top tier due to 60-day notice or lower platform activity."
+CAND_0024549,58,0.9536,"Decent technical fit with 5.2 YoE, currently a AI Specialist at Infosys. Shows background in applied ML, though has 45-day notice period."
+CAND_0093193,59,0.953,"Decent technical fit with 7.9 YoE, currently a Senior Machine Learning Engineer at Niramai. Shows background in Qdrant, though has 45-day notice period."
+CAND_0064130,60,0.9505,AI Research Engineer with 6.7 YoE at Unacademy showing exposure to LoRA. Below cutoff for top tier due to 45-day notice or lower platform activity.
+CAND_0006418,61,0.9498,"Matches core retrieval requirements (Embeddings, Weaviate, Qdrant) with 5.7 YoE. Acknowledged concern on 60-day notice, but technical fit at Verloop.io is solid."
+CAND_0017093,62,0.9489,"Decent technical fit with 5.9 YoE, currently a ML Engineer at Zoho. Shows background in Embeddings, though has 30-day notice period."
+CAND_0012888,63,0.9486,"Decent technical fit with 6.4 YoE, currently a Junior ML Engineer at Genpact AI. Shows background in applied ML, though has 30-day notice period."
+CAND_0032887,64,0.9483,"Matches core retrieval requirements (NLP, Qdrant) with 6.1 YoE. Acknowledged concern on 45-day notice, but technical fit at Niramai is solid."
+CAND_0022870,65,0.9467,"AI Specialist with 6.7 YoE at HCL showing exposure to Qdrant, Embeddings. Below cutoff for top tier due to 60-day notice or lower platform activity."
+CAND_0032089,66,0.9467,ML Engineer with 6.6 YoE at Saarthi.ai showing exposure to Pinecone. Below cutoff for top tier due to 45-day notice or lower platform activity.
+CAND_0014440,67,0.9462,"Recommendation Systems Engineer with 6.4 YoE at CRED showing exposure to FAISS, Qdrant. Below cutoff for top tier due to 60-day notice or lower platform activity."
+CAND_0066999,68,0.9453,"Decent technical fit with 5.9 YoE, currently a Recommendation Systems Engineer at Microsoft. Shows background in FAISS, Pinecone, Embeddings, though has 15-day notice period."
+CAND_0003791,69,0.9441,"Matches core retrieval requirements (Weaviate) with 6.6 YoE. Acknowledged concern on 45-day notice, but technical fit at Meesho is solid."
+CAND_0073314,70,0.9439,"Senior Software Engineer (ML) with 5.2 YoE at Aganitha showing exposure to PEFT, Weaviate. Below cutoff for top tier due to 60-day notice or lower platform activity."
+CAND_0017960,71,0.9425,"Matches core retrieval requirements (Qdrant, PEFT) with 7.7 YoE. Acknowledged concern on 60-day notice, but technical fit at Nykaa is solid."
+CAND_0097176,72,0.9416,ML Engineer with 5.9 YoE at TCS showing exposure to FAISS. Below cutoff for top tier due to 30-day notice or lower platform activity.
+CAND_0049978,73,0.9411,"Matches core retrieval requirements (Weaviate, LoRA, Embeddings) with 6.6 YoE. Acknowledged concern on 60-day notice, but technical fit at Sarvam AI is solid."
+CAND_0004402,74,0.9404,"Decent technical fit with 6.0 YoE, currently a AI Research Engineer at Yellow.ai. Shows background in PEFT, Qdrant, though has 60-day notice period."
+CAND_0037980,75,0.94,"Matches core retrieval requirements (LoRA, NLP) with 9.0 YoE. Acknowledged concern on 0-day notice, but technical fit at Niramai is solid."
+CAND_0024147,76,0.9388,ML Engineer with 5.9 YoE at Ola showing exposure to Qdrant. Below cutoff for top tier due to 60-day notice or lower platform activity.
+CAND_0098288,77,0.938,"Matches core retrieval requirements (NLP) with 6.7 YoE. Acknowledged concern on 60-day notice, but technical fit at Vedantu is solid."
+CAND_0015581,78,0.9376,"Matches core retrieval requirements (applied ML) with 6.0 YoE. Acknowledged concern on 60-day notice, but technical fit at Niramai is solid."
+CAND_0065195,79,0.9363,Search Engineer with 5.1 YoE at CRED showing exposure to Qdrant. Below cutoff for top tier due to 45-day notice or lower platform activity.
+CAND_0011327,80,0.9346,"Matches core retrieval requirements (applied ML) with 6.3 YoE. Acknowledged concern on 60-day notice, but technical fit at Krutrim is solid."
+CAND_0064888,81,0.9342,"Matches core retrieval requirements (Embeddings) with 5.8 YoE. Acknowledged concern on 30-day notice, but technical fit at Verloop.io is solid."
+CAND_0062561,82,0.9337,"Matches core retrieval requirements (Weaviate) with 5.9 YoE. Acknowledged concern on 30-day notice, but technical fit at Razorpay is solid."
+CAND_0005191,83,0.9336,"Decent technical fit with 6.2 YoE, currently a AI Specialist at Flipkart. Shows background in applied ML, though has 60-day notice period."
+CAND_0005477,84,0.9335,"Matches core retrieval requirements (PEFT) with 6.2 YoE. Acknowledged concern on 45-day notice, but technical fit at Zomato is solid."
+CAND_0032216,85,0.9335,"Matches core retrieval requirements (Qdrant) with 6.1 YoE. Acknowledged concern on 30-day notice, but technical fit at upGrad is solid."
+CAND_0041402,86,0.9322,"Matches core retrieval requirements (LoRA) with 6.3 YoE. Acknowledged concern on 60-day notice, but technical fit at Ola is solid."
+CAND_0049540,87,0.93,"Decent technical fit with 6.8 YoE, currently a ML Engineer at Saarthi.ai. Shows background in applied ML, though has 60-day notice period."
+CAND_0098952,88,0.9284,AI Research Engineer with 5.5 YoE at CRED showing exposure to NLP. Below cutoff for top tier due to 45-day notice or lower platform activity.
+CAND_0005269,89,0.9275,"Senior Software Engineer (ML) with 6.1 YoE at Sarvam AI showing exposure to FAISS, Weaviate. Below cutoff for top tier due to 45-day notice or lower platform activity."
+CAND_0065786,90,0.9264,"AI Specialist with 4.9 YoE at Swiggy showing exposure to LoRA, Pinecone, Qdrant. Below cutoff for top tier due to 45-day notice or lower platform activity."
+CAND_0062413,91,0.926,Adjacent match with 6.6 YoE as a AI Research Engineer at upGrad; limited direct experience with vector search/embeddings but has strong python background.
+CAND_0081563,92,0.9242,"Software Engineer (6.9 YoE) at Dream11 with basic exposure to Pinecone, NLP. Shows high response rate, though experience profile is slightly off-target."
+CAND_0012837,93,0.9229,"6.4 YoE developer at Sarvam AI with adjacent skills in Weaviate, NLP. Included as filler given strong platform activity signals despite notice/experience deviations."
+CAND_0061265,94,0.9222,Adjacent match with 6.6 YoE as a Recommendation Systems Engineer at Zoho; limited direct experience with vector search/embeddings but has strong python background.
+CAND_0024990,95,0.922,Adjacent match with 5.2 YoE as a Junior ML Engineer at Zoho; limited direct experience with vector search/embeddings but has strong python background.
+CAND_0017090,96,0.9209,Adjacent match with 5.5 YoE as a Senior Software Engineer (ML) at Paytm; limited direct experience with vector search/embeddings but has strong python background.
+CAND_0002120,97,0.9205,"Software Engineer (6.5 YoE) at HCL with basic exposure to Pinecone, Embeddings, Qdrant. Shows high response rate, though experience profile is slightly off-target."
+CAND_0053695,98,0.9204,Adjacent match with 5.8 YoE as a Recommendation Systems Engineer at Meesho; limited direct experience with vector search/embeddings but has strong python background.
+CAND_0068811,99,0.9197,Adjacent match with 8.0 YoE as a Applied ML Engineer at Freshworks; limited direct experience with vector search/embeddings but has strong python background.
+CAND_0068932,100,0.9174,Adjacent match with 5.2 YoE as a ML Engineer at Krutrim; limited direct experience with vector search/embeddings but has strong python background.
